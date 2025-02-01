@@ -31,8 +31,8 @@
 
 ## 🌍 الروابط اختبار رابط الإصدار العادي والإصدار الأمبي
 
-- [الاصدار العادي للصفحة]([https://www.example.com](https://siwanexyz.github.io/Bio-test/))
-- [اصدار AMP لصفحة]([https://github.com/username](https://siwanexyz.github.io/Bio-test/?amp=1))
+- [الاصدار العادي للصفحة]([https://siwanexyz.github.io/Bio-test/])
+- [اصدار AMP لصفحة]([https://siwanexyz.github.io/Bio-test/?amp=1])
 
 ## 📧 الاتصال
 
